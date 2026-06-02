@@ -1,2 +1,2 @@
-# CS450-OS
+# The C Team
 CS450 Operating System
